@@ -1,0 +1,24 @@
+>hug
+anime hugs
+**<@{author}> gives <@{user}> a warm hug! How cute**
+**<@{author}> is giving out free hugs! How sweet!**
+>sad
+anime sad
+**<@{author}> is sad at <@{user}>**
+**<@{author}> is sad**
+>happy
+anime happy
+**<@{author}> is happy at <@{user}>**
+**<@{author}> is happy!**
+>sip
+anime sip
+**<@{author}> takes a sip**
+**<@{author}> takes a sip**
+>angry
+anime angry
+**<@{author}> is angry at <@{user}>**
+**<@{author}> is angry **
+>propose
+anime marry
+**<@{user}>** will you marry accept <@{author}> to be your wife**
+**Please select a user to marry**
